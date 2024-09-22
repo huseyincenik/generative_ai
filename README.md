@@ -78,3 +78,5 @@ The future of Generative AI is bright with ongoing advancements:
 ## Conclusion
 
 Generative AI has the potential to revolutionize industries by automating the creation of high-quality content. With ongoing research and development, it continues to break new ground in creativity, efficiency, and problem-solving across a variety of domains.
+
+[![](https://visitcount.itsvg.in/api?id=huseyincenik.generative_ai&label=Visiter%20Count&color=10&icon=9&pretty=false)](https://visitcount.itsvg.in)
