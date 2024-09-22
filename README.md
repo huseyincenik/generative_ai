@@ -66,7 +66,6 @@ The future of Generative AI is bright with ongoing advancements:
 ## Further Reading
 
 - [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
-- [GPT-3 and its Applications](https://openai.com/research/gpt-3)
 - [Variational Autoencoders (VAEs)](https://arxiv.org/abs/1312.6114)
 ## Projects
 
