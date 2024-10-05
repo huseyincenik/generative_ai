@@ -1,0 +1,8 @@
+langchain
+langchain-community
+sentence_transformers
+torch
+pypdf
+qdrant-client
+protobuf
+transformers
