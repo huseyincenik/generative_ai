@@ -1,4 +1,4 @@
-# AutoLLM: Simplify, Unify, and Amplify Your LLM Applications 🚀
+# 🚀🤖 AutoLLM: RAG-based LLM Apps and APIs ⏱️⚡
 
 ![image](https://github.com/user-attachments/assets/2a4186a1-ac90-49c3-a9e5-e669fad49cf0)
 
