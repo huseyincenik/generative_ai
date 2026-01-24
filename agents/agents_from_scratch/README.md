@@ -7,7 +7,7 @@ Build a minimal autonomous agent loop with tool-calling using the Moonshot AI Ki
 
 Kaggle version: https://www.kaggle.com/code/huseyincenik/agents-from-scratch
 
-## Common Libraries
+## Used Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
