@@ -72,6 +72,7 @@ The future of Generative AI is bright with ongoing advancements:
 | Project Name | Description | GitHub | 
 | --- | --- | --- |
 | **Generative AI Applications** | This folder includes generative ai applications. | [GitHub](https://github.com/huseyincenik/generative_ai) |
+| **Agents** | Notebooks and examples on building autonomous AI agents from scratch. | [GitHub](https://github.com/huseyincenik/generative_ai/tree/main/agents) |
 
 
 ## Conclusion
